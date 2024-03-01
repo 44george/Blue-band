@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blueband & Festive Family Bread</title>
+</head>
+<body>
+    <section id="products">
+    <h2>Our Products</h2>
+    <p>Explore our range of Blueband margarine and festive family bread options.</p>
+    <div class="gallery">
+        <img src="blueband_product1.jpg" alt="Blueband Product 1">
+        <img src="blueband_product2.jpg" alt="Blueband Product 2">
+        <!-- Add more images here -->
+    </div>
+    <a href="page4.html">Contact Us</a>
+</section>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">6y
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blueband & Festive Family Bread</title>
+</head>
+<body>
+    <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Get in touch with us to place an order or inquire about our products.</p>
+    <form>
+        <input type="text" placeholder="Name">
+        <input type="email" placeholder="Email">
+        <textarea placeholder="Message"></textarea>
+        <button type="submit">Send</button>
+    </form>
+    <a href="page5.html">Watch Video</a>
+</section>
